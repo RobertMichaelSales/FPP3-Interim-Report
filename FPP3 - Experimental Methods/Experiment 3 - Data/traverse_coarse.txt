@@ -1,0 +1,36 @@
+1	28	1	1	1	1	Number of positions (first and last points that are not recorded don't count)												
+0	2	0	0	0	0	Stepper	motor	channels (Non zero active channel)						
+8	20	4	50	50	50	Stepper motor calibration (Conversion Factors for stepper motors (mm/rev, deg/rev etc))
+0	0	0	0	0	0	Offsets	of stepper motor origin wrt rig	origin
+0	0	0	0	0	0	Backlash in mm or deg					(Disabled)									
+0	0	0	0	0	0	Offsets of coordinates wrt stepper motor origin
+0	0	0	0	0	0	Measurements are in mm (absolute values)
+0	10	0	0	0	0
+0	20	0	0	0	0
+0	25	0	0	0	0
+0	30	0	0	0	0
+0	40	0	0	0	0
+0	45	0	0	0	0
+0	50	0	0	0	0
+0	55	0	0	0	0
+0	60	0	0	0	0
+0	65	0	0	0	0
+0	70	0	0	0	0
+0	75	0	0	0	0
+0	80	0	0	0	0
+0	85	0	0	0	0
+0	90	0	0	0	0
+0	95	0	0	0	0
+0	100	0	0	0	0
+0	105	0	0	0	0
+0	110	0	0	0	0
+0	120	0	0	0	0
+0	130	0	0	0	0
+0	140	0	0	0	0
+0	145	0	0	0	0
+0	75	0	0	0	0
+0	30	0	0	0	0
+0	10	0	0	0	0
+0	0	0	0	0	0
+
+

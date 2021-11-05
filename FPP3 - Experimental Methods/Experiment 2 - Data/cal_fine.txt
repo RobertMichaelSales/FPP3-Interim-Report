@@ -1,0 +1,80 @@
+75	1	1	1	1	1	Number	of	positions												
+2	0	0	0	0	0	Stepper	motor	channels	(Non	zero	denotes	active	channel)							
+40	8	8	50	50	50	Conversion Factors for stepper motors (mm/rev, deg/rev etc)														
+0	0	0	0	0	0	Offsets	wrt	stepper	motor	origins										
+0	0	0	0	0	0	Offsets	to	be	applied	to	the	following	data	before	being	passed	to	the	stepper	motors
+0	0	0	0	0	0	offset														
+0	0	0
+-45	0	0
+-40	0	0
+-35	0	0
+-30	0	0
+-25	0	0
+-20	0	0
+-19	0	0
+-18	0	0
+-17	0	0
+-16	0	0
+-15	0	0
+-14	0	0
+-13	0	0
+-12	0	0
+-11	0	0
+-10	0	0
+-9.5	0	0
+-9	0	0
+-8.5	0	0
+-8	0	0
+-7.5	0	0
+-7	0	0
+-6.5	0	0
+-6	0	0
+-5.5	0	0
+-5	0	0
+-4.5	0	0
+-4	0	0
+-3.5	0	0
+-3	0	0
+-2.5	0	0
+-2	0	0
+-1.5	0	0
+-1	0	0
+-0.5	0	0
+0	0	0
+0.5	0	0
+1	0	0
+1.5	0	0
+2	0	0
+2.5	0	0
+3	0	0
+3.5	0	0
+4	0	0
+4.5	0	0
+5	0	0
+5.5	0	0
+6	0	0
+6.5	0	0
+7	0	0
+7.5	0	0
+8	0	0
+8.5	0	0
+9	0	0
+9.5	0	0
+10	0	0
+11	0	0
+12	0	0
+13	0	0
+14	0	0
+15	0	0
+16	0	0
+17	0	0
+18	0	0
+19	0	0
+20	0	0
+25	0	0
+30	0	0
+35	0	0	
+40	0	0	
+45	0	0
+0	0	0
+
